@@ -1,0 +1,16 @@
+{
+  "name": "digital-garden",
+  "version": "1.0.0",
+  "description": "null",
+  "main": "index.js",
+  "author": "wangcan",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "serve": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+  
+}
